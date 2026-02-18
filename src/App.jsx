@@ -90,11 +90,11 @@ function App() {
       <Alert alert={alert} />
       <Textforms mode={mode} alerting={alerting} />
 
-      {/* <Routes>
+       {/* <Routes>
         <Route path="/" element={<Textforms mode={mode} alerting={alerting} />}  />
         <Route path="/about" element={<About />} />
         
-      </Routes> */ }
+      </Routes>  */}
       <Tailwind/>
       <Breakprac/>
     </>
